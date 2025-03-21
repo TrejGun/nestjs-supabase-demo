@@ -5,11 +5,11 @@
     "url": "https://ethberry.io/"
   },
   "dependencies": {
-    "@nestjs/common": "11.0.11",
+    "@nestjs/common": "11.0.12",
     "@nestjs/config": "4.0.1",
-    "@nestjs/core": "11.0.11",
-    "@nestjs/platform-express": "11.0.11",
-    "@nestjs/swagger": "11.0.6",
+    "@nestjs/core": "11.0.12",
+    "@nestjs/platform-express": "11.0.12",
+    "@nestjs/swagger": "11.0.7",
     "@supabase/supabase-js": "2.49.1",
     "reflect-metadata": "0.2.2",
     "rxjs": "7.8.2"
@@ -19,7 +19,7 @@
     "@ethberry/eslint-config": "5.0.5",
     "@nestjs/cli": "11.0.5",
     "@nestjs/schematics": "11.0.2",
-    "@nestjs/testing": "11.0.11",
+    "@nestjs/testing": "11.0.12",
     "@swc/cli": "0.6.0",
     "@swc/core": "1.11.9",
     "@types/express": "5.0.0",
