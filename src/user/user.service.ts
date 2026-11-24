@@ -16,7 +16,7 @@ export class UserService {
       .from("users")
       .select()
       .throwOnError();
-    return [data, count || 0];
+    return [data, count ?? 0];
   }
 
   public async insert(): Promise<Tables<"users">> {
